@@ -16,6 +16,13 @@ English | [中文](README.zh-CN.md)
 - **[Augment Code](https://www.augmentcode.com/)**, Professional AI platform for large-scale enterprise codebases with 200K context tokens
 - **[Comate](https://comate.baidu.com/en)**, Baidu's AI assistant supporting 100+ languages with 50% code adoption rate
 
+# NeuroNest AI Software Productivity Tool
+[![Awesome](https://neuronest.cc/)
+
+NeuroNest is an AI software productivity tool designed to help developers create, test, debug, and improve applications with greater speed and accuracy. It supports coding assistance, security review, DevOps workflows, automation, and technical research, making it a useful platform for teams working on modern AI-assisted software development.
+
+>contribition welcome -[open PR](https://github.com/NETGVai/NeuroNest)
+
 ## Terminal-Based AI Agents
 
 - **[Claude Code](https://www.anthropic.com/claude-code)**, Anthropic's terminal-native AI coding tool with deep codebase understanding
